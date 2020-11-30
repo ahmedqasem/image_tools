@@ -17,7 +17,7 @@ it will create subdirectories in the target location as follows:
  </ul>
  <br>
  
-## 2. fix_data
+## 2. fix_data.py
 this script will perform two main tasks:<br>
 <ol>
  <li>it will create the red_ct version of each image: red ct is simply pseudo-color the image and keep the red channel only, it is helpful to fix the loss of contrast when converting a ct image from .dcm to .png</li>
